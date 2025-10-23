@@ -21,15 +21,18 @@ public class ItemPedido {
         this.tipoTalla = tipoTalla;
     }
     
-    // metodos
-    public boolean agregarItem(){
+    // METODOS
+    public boolean agregarExtra(String nombreBebida){
+        return false;
+    }
+    public boolean cambiarTipoTalla(TipoTalla tipoTalla){
         return false;
     }
     
-    public boolean EliminarItem (){
+    public boolean EliminarExtra (){
         return false;
     }
-    public boolean modificarItem(){
-        return false;
+    public double aplicarPromocion(Promocion promocion){
+        return 0;
     }
 }
