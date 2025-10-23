@@ -1,0 +1,9 @@
+com\mycompany\cafeandino\Clases\Pedido.class
+com\mycompany\cafeandino\Enumeraciones\TipoPago.class
+com\mycompany\cafeandino\CafeAndino.class
+com\mycompany\cafeandino\Clases\Cliente.class
+com\mycompany\cafeandino\Clases\Factura.class
+com\mycompany\cafeandino\Enumeraciones\EstadoPedido.class
+com\mycompany\cafeandino\Enumeraciones\TipoTalla.class
+com\mycompany\cafeandino\Clases\ItemPedido.class
+com\mycompany\cafeandino\Clases\Promocion.class
